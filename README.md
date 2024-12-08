@@ -25,7 +25,7 @@ I am Imran. I am intersted in Machine learning and Backend development. I enjoy 
 	<a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 	<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="70" height="40"/> </a>
 	<a href="https://www.evidentlyai.com/blog" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/66180fbf4f40e9ed73ca2d39_evidently_ai_logo_fi.png" alt="fastapi" width="80" height="50"/> </a>
-	<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="40" height="40"/> </a>
+	<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/?size=100&id=MHcMYTljfKOr&format=png&color=000000" alt="flask" width="50" height="50"/> </a>
 	<a href="https://docs.sqlalchemy.org/en/20/index.html" target="_blank" rel="noreferrer"><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy" width="80" height="40"/> </a>
 
 </p>
