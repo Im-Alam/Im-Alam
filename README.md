@@ -9,8 +9,8 @@ I am Imran. I am intersted in Machine learning and Backend development. I enjoy 
 
 <p align="center">
 	<a href="" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="twitter" height="40" style="vertical-align:top; margin:4px"></a>
-	<a href="https://www.linkedin.com/in/imran-alam-394b91226/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
-	<a href="mailto:imranalam04418gmail.com"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
+	<a href="https://www.linkedin.com/in/imran-alam-394b91226/" target="_blank" rel="noopener noreferrer"> <img src="https://www.linkedin.com/feed/?doFeedRefresh=true&nis=true&lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BtVkiD6fETQ62bVj4drXmVw%3D%3D" alt="linkedin" height="40" style="vertical-align:top; margin:4px"></a>
+	<a href="mailto:imranalam04418gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="40" style="vertical-align:top; margin:4px"></a>
 </p>
 
 ## 🛠️ Languages and Tools
@@ -27,11 +27,11 @@ I am Imran. I am intersted in Machine learning and Backend development. I enjoy 
 	<a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer"> <img src="https://github.com/gilbarbara/logos/blob/main/logos/fastapi.svg" alt="fastapi" width="70" height="40"/></a>
 	<a href="https://www.evidentlyai.com/blog" target="_blank" rel="noreferrer"> <img src="https://cdn.prod.website-files.com/660ef16a9e0687d9cc2746d7/66180fbf4f40e9ed73ca2d39_evidently_ai_logo_fi.png" alt="fastapi" width="90" height="50"/></a>
 	<a href="https://flask.palletsprojects.com/en/stable/" target="_blank" rel="noreferrer"> <img src="https://flask.palletsprojects.com/en/stable/_images/flask-horizontal.png" alt="flask" width="90" height="40"/></a>
-	<a href="https://docs.sqlalchemy.org/en/20/index.html" target="_blank" rel="noreferrer"><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy" width="90" height="40"/></a>
+	<a href="https://docs.sqlalchemy.org/en/20/index.html" target="_blank" rel="noreferrer"><img src="https://www.sqlalchemy.org/img/sqla_logo.png" alt="sqlalchemy" width="100" height="40"/></a>
 
 </p>
 
-## [stats](https://t3.ftcdn.net/jpg/05/46/46/14/240_F_546461498_eAK0ADH2mE0Y1VNG7wpjIgtXFxT0mR0a.jpg)Stats
+## 📊 Stats
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Im-Alam&theme=nightowl&hide=Jupyter%20Notebook&hide_border=true)](https://github.com/Im-Alam/github-readme-stats)
 
