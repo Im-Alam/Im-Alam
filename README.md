@@ -13,7 +13,7 @@ I am Imran. I am intersted in Machine learning and Backend development. I enjoy 
 
 ## ✉️ Find me on:
 
-<p align="center">
+<p align="left">
 	<a href="" target="_blank" rel="noopener noreferrer"> <img src="https://img.icons8.com/?size=100&id=ClbD5JTFM7FA&format=png&color=000000" alt="twitter" height="40" style="vertical-align:top; margin:6px"></a>
 	<a href="https://www.linkedin.com/in/imran-alam-394b91226/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="linkedin" height="35" style="vertical-align:top; margin:6px"></a>
 	<a href="mailto:imranalam04418gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" style="vertical-align:top; margin:6px"></a>
