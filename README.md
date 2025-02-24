@@ -34,7 +34,7 @@ I am Imran. I am intersted in Machine learning and Backend development. I enjoy 
 
 <div align="left">
   <a href="https://drive.google.com/file/d/1El-iqu-lOTWfJzbbrMNkX-DgRhrcx9gq/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/Visit%20My%20Project-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="See resume"/>
+    <img src="https://img.shields.io/badge/See%My%20Resume-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="See resume"/>
   </a>
 </div>
 
