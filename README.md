@@ -5,6 +5,12 @@ I am Imran. I am intersted in Machine learning and Backend development. I enjoy 
 - 👀 I’m interested in Machine Learning, Deep Learning and its deployment
 - 💞️ I’m looking to collaborate on AI-driven projects, especially in financial data collection, financial analysis and prediction system
 
+<div align="left">
+  <a href="https://drive.google.com/file/d/1El-iqu-lOTWfJzbbrMNkX-DgRhrcx9gq/view?usp=drive_link" target="_blank">
+    <img src="https://img.shields.io/badge/See%20My%20Resume-4CAF50?style=for-the-badge&logo=google-drive&logoColor=white" alt="See My Resume"/>
+  </a>
+</div>
+
 ## ✉️ Find me on:
 
 <p align="center">
@@ -12,13 +18,6 @@ I am Imran. I am intersted in Machine learning and Backend development. I enjoy 
 	<a href="https://www.linkedin.com/in/imran-alam-394b91226/" target="_blank" rel="noopener noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/logotypes/32/circle-linkedin-512.png" alt="linkedin" height="35" style="vertical-align:top; margin:6px"></a>
 	<a href="mailto:imranalam04418gmail.com"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/200px-Gmail_icon_%282020%29.svg.png" alt="gmail" height="30" style="vertical-align:top; margin:6px"></a>
 </p>
-
-
-<div align="left">
-  <a href="https://drive.google.com/file/d/1El-iqu-lOTWfJzbbrMNkX-DgRhrcx9gq/view?usp=drive_link" target="_blank">
-    <img src="https://img.shields.io/badge/See%20My%20Resume-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="See My Resume"/>
-  </a>
-</div>
 
 
 ## 🛠️ Languages and Tools
